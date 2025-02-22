@@ -1,0 +1,5 @@
+root:x:0:0:root:/root:/sbin/nologin
+user2:x:1000:1000:user:/home/user:/bin/bash
+user2:x:1001:1001:user2:/home/user2:/bin/bash
+user3:x:1002:1002:user3:/home/user3:/bin/bash
+user4:x:1003:1003:user4:/home/user4:/bin/bash
